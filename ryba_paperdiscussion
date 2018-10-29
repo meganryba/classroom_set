@@ -1,0 +1,9 @@
+#url of the paper: #https://www.sciencedirect.com/science/article/pii/S0964569116303829
+
+#title of the paper: Where is the risk? Integrating a spatial distribution model and a risk assessment to identify areas of cetacean #interaction with fisheries in the northeast Atlantic
+
+#The softwares they used were Maxent modelling programme 
+#Version 3.3.3 and Species Distribution Modelling (SDM) toolbox. 
+
+#The data they used were sighting surveys to map their distribution by #species and quarter (of the year), but all years were combined. They #also collected environmental data such as depth, distance to the coast, 
+#slope, mixed layer depth per quarter, chlorophyll per quarter, sea #surface temperature per quarter, and sea surface salinity per quarter. They mapped the distribution of each species quarterly to determine the usage of the area and calculate risk. 
